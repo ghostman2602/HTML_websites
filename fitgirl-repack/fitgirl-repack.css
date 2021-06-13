@@ -1,0 +1,66 @@
+		#menu{
+			color: white;
+			font-size: 13px;
+			padding: 10px;
+		}
+		hr{background-color: #d9d9d9;}
+		#smenu{
+			border-width: 1px;
+			border-left: thin;
+			border-right: thin;
+			width: 100%;
+			border-color: grey;
+			color: white;
+			font-size: 13px;
+			padding: 5px;
+			text-align: left;
+		}
+		.hv:hover{background-color: green;}
+		#sbar{
+			color :#f759f2;
+			font-weight: bold; 
+			font-size: 11px;
+		}
+		.lhv:hover{background-color: green;}
+		#libw{
+			color: green;
+			text-decoration: underline;
+		}
+		#genre{
+			font-size: 11px;
+			font-family: arial black;
+			color: #303030;
+		}
+		#ghead{
+			font-size:  34px;
+			color: black;
+			font-weight: lighter;
+			text-decoration: none;
+		}
+		#igh{
+			font-size: 25px;
+			font-weight: bold;
+		}
+		#gimg{
+			width:  180px;
+			height: 120px;
+		}
+		#gdl{
+			font-family: 'berlin sans fb';
+			color: #3b3b3b;
+			text-decoration: none;
+		}
+		#ghead2{
+			font-size: 22px;
+			font-weight: bolder;
+		}
+		#gdeskbtn{
+			border: 1px solid #b0b0b0;
+			background-color: #ededed;
+			padding: 3px;
+			border-radius: 10px;
+		}
+		#dlc{
+			font-family: bahnschrift;
+			font-weight: bold;
+		}
